@@ -1,0 +1,255 @@
+.c-hpmQnL,
+.c-eFjxZa {
+    width: 100vw;
+    min-height: 100vh;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-image: url(../img/fundo.887f7a75.webp);
+    background-position: center;
+    background-size: initial;
+    background-repeat: repeat;
+}
+
+.c-hOnwtJ {
+    display: flex;
+    text-align: start;
+    justify-items: start !important;
+    gap: 10px;
+
+}
+
+/* Nuback  */
+.c-dkmlVU1,
+.c-dkmlVU {
+    display: flex;
+    gap: 0.8rem;
+    flex-direction: column;
+}
+
+.c-dkmlVU1>div,
+.c-cRwLlm {
+    display: flex;
+    gap: 0.8rem;
+}
+
+.c-fanatc {
+    display: flex;
+    gap: 1rem;
+    flex-direction: row;
+}
+
+.c-igNWgA {
+    background-color: rgb(124, 58, 237);
+    color: rgb(255, 255, 255);
+    padding: 0.6rem 1rem;
+    border: none;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+    font-size: 1.4rem;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+
+.c-fAojqh {
+    width: 30rem;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    animation: 0.3s ease 0s 1 normal none running k-feVUdh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.c-ggXpGf {
+    position: fixed;
+    top: 2rem;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+#__next>main>div>div.c-ggXpGf>div>a {
+    padding: 10px;
+    font-size: 20px;
+    background-color: rgb(76, 175, 80);
+    color: white;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s ease 0s;
+    text-decoration: none;
+}
+
+
+.smartplayer-controller {
+    visibility: hidden;
+}
+
+.c-hTQBSY {
+    margin-top: 1.6rem;
+    padding-left: 2rem;
+    font-size: 0.9rem;
+    border-left: 1px solid rgb(0, 0, 0);
+}
+
+
+
+/* Pagamento  */
+
+.c-cbpPGg {
+    width: 100vw;
+    padding: 1rem 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgb(255, 255, 255);
+    gap: 1rem;
+    animation: 2.5s ease 0s infinite alternate none running k-hAqVBx;
+    transition: all 200ms linear 0s;
+}
+
+.c-cbpPGg>h3 {
+    text-shadow: rgba(0, 0, 0, 0.59) 0px 0px 10px;
+    font-size: 2rem;
+    color: rgb(0, 0, 0) !important;
+}
+
+.c-cbpPGg>p {
+    color: rgb(0, 161, 22);
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.c-cbpPGg>h1 {
+    font-size: 4.3rem;
+    color: red;
+    text-shadow: rgba(255, 0, 0, 0.59) 0px 0px 10px;
+}
+
+.c-hfZhnA {
+    background: rgb(24, 186, 111);
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    border-radius: 25px;
+    border: 0px;
+    padding: 1.2rem 2.5rem;
+    transition: all 300ms ease-in-out 0s;
+    text-decoration: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.6rem;
+}
+
+.c-cbpPGg>a {
+    text-decoration: none;
+    background: rgb(0, 161, 22);
+    padding: 0.75rem 2rem;
+    font-weight: 600;
+    border-radius: 5rem;
+    color: rgb(255, 255, 255);
+}
+
+
+@keyframes k-hAqVBx {
+    0% {
+        transform: scale(1);
+    }
+
+    100% {
+        transform: scale(1.1);
+    }
+}
+
+/* Pop-up */
+
+/* Estilos do Popup */
+.c-iOLasf {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+/* Estilos do Conteúdo do Popup */
+.c-eMJYJv {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    border-radius: 5px;
+    animation: 0.3s ease 0s 1 normal none running k-feVUdh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.c-eMJYJv h2 {
+    color: rgb(51, 65, 85);
+}
+
+.c-eMJYJv p {
+    color: rgb(51, 65, 85);
+    font-size: 0.9rem;
+    font-weight: 300;
+}
+
+/* Estilos Overlay para fechar o Popup clicando em qualquer lugar */
+.overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* Estilos do Conteúdo da Página */
+#conteudoPagina {
+    text-align: center;
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+.selecionado{
+    background-color: #e70695!important; /* Cor de destaque do botão selecionado */
+
+    /* Ajuste a saturação e o brilho conforme necessário */
+    /* filter: saturate(150%) brightness(120%)!important; */
+    filter: brightness(145%);
+    color: #fff!important; /* Cor do texto no botão selecionado */
+}
+
+
+.selecionado1 , .selecionado2{
+    background-color: rgb(109, 40, 217)!important;
+    color: rgb(255, 255, 255)!important;
+    transform: scale(1.05)!important;
+}
